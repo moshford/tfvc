@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+
+FN:The Feline Vet Care
+ORG:The Feline Vet Care
+
+TEL;TYPE=WORK,VOICE:+1-301-750-8943
+TEL;TYPE=WORK,SMS:+1-301-750-9889
+
+EMAIL;TYPE=WORK:info@thefeline.com
+URL:https://www.thefeline.com
+
+ADR;TYPE=WORK:;;5552 Norbeck Rd.;Rockville;MD;20853;USA
+
+NOTE:Cat-only veterinary clinic. Bilingual care in English and Spanish.\n\nHours:\nMonday–Friday: 9:00 AM – 6:00 PM\nSaturday: 9:00 AM – 2:00 PM\nSunday: Closed\n\nAppointments at our Rockville clinic or premium house calls.
+
+END:VCARD
