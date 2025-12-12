@@ -4,8 +4,8 @@ VERSION:3.0
 FN:The Feline Vet Care
 ORG:The Feline Vet Care
 
-TEL;TYPE=WORK,VOICE:+1-301-750-8943
-TEL;TYPE=SMS,SMS:+1-301-750-9889
+TEL;TYPE=Call Us,VOICE:+1-301-750-8943
+TEL;TYPE=Text Us (SMS Only),SMS:+1-301-750-9889
 
 EMAIL;TYPE=WORK:info@thefeline.com
 URL:https://www.thefeline.com
